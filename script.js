@@ -47,7 +47,7 @@
                 const payload = {
                     content: content,
                     username: botName || 'Webhook Pro',
-                    avatar_url: 'https://i.imgur.com/4M7IWwP.png'
+                    avatar_url: 'https://cdn.discordapp.com/avatars/432610292342587392/8f1a4b7b0e2e8a1c5d9f3a7b8e4c6d2a.png?size=256'
                 };
 
                 const response = await fetch(webhookUrl, {
